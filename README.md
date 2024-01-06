@@ -1,2 +1,2 @@
-# ourproject
+# Final Project
 TIC project
